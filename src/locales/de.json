@@ -1,1 +1,495 @@
-{}
+{
+  "site": {
+    "name": "Nature of Dread Wiki",
+    "shortName": "Nature of Dread",
+    "tagline": "Guides zu Action-Horror aus der Ego-Perspektive, Gegnern und Story",
+    "description": "Erkunde die verfluchte Siedlung Hellhole in Nature of Dread mit Survival-Horror-Guides, Gegnerdetails, Waffen, Story und Release-News.",
+    "legalNotice": "Unabhängiges Fan-Wiki. Nicht mit Eira Games verbunden."
+  },
+  "nav": {
+    "guide": "Guide",
+    "release": "Release",
+    "trailers": "Trailer",
+    "mechanics": "Mechanik",
+    "community": "Community",
+    "development": "Entwicklung",
+    "story": "Story",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln"
+  },
+  "home": {
+    "meta": {
+      "title": "Nature of Dread Wiki – Story, Waffen & Survival-Guide",
+      "description": "Erkunde Nature of Dread mit Spielnews, Story-Details, Kampftipps, Gegner-Guides, Waffen, Systemanforderungen, Release-Updates und offiziellen Trailern für PC."
+    },
+    "hero": {
+      "eyebrow": "First-Person-Action-Horror",
+      "title": "Nature of Dread Wiki",
+      "description": "Erkunde die verfluchte Siedlung Hellhole in Nature of Dread, einem First-Person-Action-Horror-Spiel mit übernatürlichen Gegnern, intensiven Kämpfen, Ressourcenmanagement und einer düsteren Geschichte.",
+      "stats": [
+        "Release: noch nicht bekannt",
+        "Plattform: PC",
+        "12 unterstützte Sprachen",
+        "Einzelspieler"
+      ],
+      "primaryCta": "Einsteiger-Guide",
+      "secondaryCta": "Gameplay-Guide",
+      "tertiaryCta": "Auf Steam vormerken",
+      "videoLabel": "Offizieller Reveal-Trailer"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle ansehen"
+    },
+    "start": {
+      "eyebrow": "Hier beginnen",
+      "title": "Deine Reise durch Nature of Dread",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Lerne die grundlegende Überlebensschleife kennen, lege sichere Routen fest und vermeide die Fehler, die die meisten ersten Durchläufe in Hellhole beenden."
+        },
+        {
+          "number": "2",
+          "title": "Kampfgrundlagen",
+          "description": "Vergleiche Nahkampf, Pistole und Schrotflinte und nutze Engstellen und Stellungswechsel, um adaptive Gegner zu überleben."
+        },
+        {
+          "number": "3",
+          "title": "Ressourcen-Guide",
+          "description": "Teile Munition, Heilung und Werkzeuge sinnvoll ein, priorisiere Abkürzungen und nimm nur die Beute mit, die deine nächste Route braucht."
+        },
+        {
+          "number": "4",
+          "title": "Erkundung",
+          "description": "Lies die Wald-, Siedlungs- und Bunkerebenen von Hellhole, behalte einen Ausgang im Blick und folge den Hinweisen der Umgebung."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Aktuell im Trend",
+      "quickLinks": [
+        "Einsteiger-Guide",
+        "Release-Datum",
+        "Kampfsystem",
+        "Gegner-Guide"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteiger-Guide",
+          "description": "Lerne die Überlebensschleife, die Kampfgrundlagen und die Ressourcenprioritäten, die du zum Entkommen aus Hellhole brauchst.",
+          "href": "/guide/nature-of-dread-beginner-guide"
+        },
+        {
+          "badge": "News",
+          "title": "Release-Datum",
+          "description": "Verfolge den bestätigten Release-Status, Steam-Updates und die neuesten Ankündigungen zu Nature of Dread.",
+          "href": "/release/nature-of-dread-release-date"
+        },
+        {
+          "badge": "Mechanik",
+          "title": "Kampfsystem",
+          "description": "Verstehe realistische Waffen, adaptive Gegner und den Ressourcendruck hinter jedem Kampf.",
+          "href": "/mechanics/nature-of-dread-combat-system"
+        },
+        {
+          "badge": "Gegner",
+          "title": "Monster und Gegner",
+          "description": "Erkunde die Urwesen von Hellhole, Rudeljäger und die Gefahren, die mit seinem uralten Bösen verbunden sind.",
+          "href": "/story/nature-of-dread-enemies"
+        },
+        {
+          "badge": "Lore",
+          "title": "Schauplatz Hellhole",
+          "description": "Lies die Geschichte der abgeriegelten Siedlung, ihrer nördlichen Wildnis und des geheimen Bunkers darunter.",
+          "href": "/story/nature-of-dread-setting"
+        },
+        {
+          "badge": "Story",
+          "title": "Story und Lore",
+          "description": "Folge dem jahrhundertealten geheimen Krieg, der vermischten Folklore und der vielschichtigen Erzählung von Nature of Dread.",
+          "href": "/story/nature-of-dread-story"
+        },
+        {
+          "badge": "PC",
+          "title": "Plattformen und Anforderungen",
+          "description": "Prüfe die Steam-Plattformdetails, die teilweisen Systemanforderungen und die Barrierefreiheitsoptionen.",
+          "href": "/release/nature-of-dread-platforms"
+        },
+        {
+          "badge": "Trailer",
+          "title": "Reveal-Trailer",
+          "description": "Analysiere den 2:37 langen Reveal, seinen Schauplatz Hellhole und die Fragen, die er offen lässt.",
+          "href": "/trailers/nature-of-dread-reveal-trailer"
+        },
+        {
+          "badge": "Gameplay",
+          "title": "Erster Gameplay-Blick",
+          "description": "Erfahre, was die fünfminütige Bunkersequenz über das Tempo von Erkundung und Kampf verrät.",
+          "href": "/guide/nature-of-dread-first-gameplay"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Nature of Dread?",
+      "paragraphs": [
+        "Nature of Dread ist ein First-Person-Action-Horror-Spiel in Hellhole, einer geheimen Siedlung in der nördlichen Wildnis, die errichtet wurde, um ein uraltes Übel einzuschließen. Du erwachst eingesperrt, während die abgeriegelten Grenzen, verschütteten Experimente und übernatürlichen Bedrohungen näher rücken.",
+        "Zum Überleben musst du die Umgebung lesen, knappe Munition und Heilmittel einteilen und deine Taktik gegen Kreaturen wechseln, die lernen, sich anpassen und im Rudel jagen. Die offizielle Steam-Seite nennt außerdem eine abgesägte Schrotflinte, eine Militärpistole, Messerkämpfe, einen anpassbaren Schwierigkeitsgrad und 12 unterstützte Sprachen."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Nature of Dread Team"
+        },
+        {
+          "label": "Plattform",
+          "value": "PC über Steam"
+        },
+        {
+          "label": "Genre",
+          "value": "First-Person-Action-Horror"
+        },
+        {
+          "label": "Release-Datum",
+          "value": "Noch nicht bekannt"
+        },
+        {
+          "label": "Perspektive",
+          "value": "Ego-Perspektive"
+        },
+        {
+          "label": "Spielmodus",
+          "value": "Einzelspieler"
+        },
+        {
+          "label": "Sprachen",
+          "value": "12 unterstützt"
+        }
+      ],
+      "cta": "Alle Guides erkunden"
+    },
+    "explore": {
+      "title": "Nature of Dread Wiki erkunden",
+      "description": "Erkunde Nature of Dread mit Release-News, Überlebenstaktiken für Einsteiger, adaptiven Gegnern, Waffen, Lore, PC-Anforderungen und offiziellen Trailern zu Hellhole.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Nature of Dread Release-Datum und aktuelle News",
+          "description": "Verfolge den aktuellen Release-Status von Nature of Dread, Steam-Ankündigungen, Gameplay-Reveals und bestätigte Meilensteine.",
+          "href": "/release/nature-of-dread-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "TBA",
+              "detail": "Nature of Dread ist auf Steam weiterhin als noch nicht angekündigt gelistet; ein Release-Zeitraum wurde nicht bestätigt."
+            },
+            {
+              "label": "Steam",
+              "detail": "Die PC-Shopseite ist online und das Vormerken ist unter der Steam-App-ID 4022950 möglich."
+            },
+            {
+              "label": "Material",
+              "detail": "Ein fünfminütiger Gameplay-Einblick erkundet einen geheimen Bunker unter Hellhole."
+            },
+            {
+              "label": "Wunschliste",
+              "detail": "Das Vormerken auf Steam ermöglicht Release-Hinweise und signalisiert Nachfrage nach dem Projekt."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Nature of Dread Einsteiger-Guide",
+          "description": "Ein praktischer Guide für die erste Spielsitzung: Hellhole erkunden, knappe Vorräte verwalten, Kämpfe auswählen und sicherere Routen freischalten.",
+          "href": "/guide/nature-of-dread-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Betritt einen neuen Bereich erst mit einer Rückzugsroute im Kopf und laufe nicht direkt in seine Mitte."
+            },
+            {
+              "label": "2",
+              "detail": "Fülle Heilung und Munition auf, bevor du eine sichere Zone verlässt, und halte beide über der halben Kapazität."
+            },
+            {
+              "label": "3",
+              "detail": "Umrunde zuerst den Rand, höre auf Gefahren und markiere Türen, Orientierungspunkte und alternative Ausgänge."
+            },
+            {
+              "label": "4",
+              "detail": "Kämpfe aus Türrahmen, von Treppen oder in engen Korridoren, damit Rudeljäger dich nicht umzingeln können."
+            },
+            {
+              "label": "5",
+              "detail": "Sammle Beute mit einem konkreten Zweck und lass alles liegen, was die nächsten zwanzig Minuten nicht unterstützt."
+            },
+            {
+              "label": "6",
+              "detail": "Schalte Abkürzungen und sichere Routen früh frei und nutze sie, um spätere Versorgungsgänge kürzer und sicherer zu machen."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Nature of Dread Gameplay und Features",
+          "description": "Verstehe die First-Person-Überlebensschleife, das adaptive Gegnerverhalten, den Ressourcendruck und die Atmosphäre, die Nature of Dread prägt.",
+          "href": "/mechanics/nature-of-dread-horror-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Ego-Perspektive",
+              "detail": "Die gesamte Reise wird durch eine nahe Ego-Kamera präsentiert, die auf Immersion ausgelegt ist."
+            },
+            {
+              "label": "Kluge KI",
+              "detail": "Die Kreaturen sollen lernen, sich anpassen, Rudel bilden und ihre Taktik ändern."
+            },
+            {
+              "label": "Knappheit",
+              "detail": "Munition, Heilung und Werkzeuge sind begrenzt, sodass jeder Kampf eine Ressourcenentscheidung ist."
+            },
+            {
+              "label": "Atmosphäre",
+              "detail": "Dunkle Wälder, abgeriegelte Grenzen und vielschichtiges Umwelt-Storytelling erzeugen den Schrecken."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Nature of Dread Monster und Gegner",
+          "description": "Vergleiche die Gefahrenstufen der Urwesen von Hellhole, der adaptiven Rudeljäger und der übernatürlichen Wesen in Bossgröße.",
+          "href": "/story/nature-of-dread-enemies",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Spitzenwesen, die der Vier Reiter würdig sein sollen; meide frühe Kämpfe und plane einen Fluchtweg."
+            },
+            {
+              "label": "A",
+              "detail": "Adaptive Rudeljäger, die aus wiederholten Taktiken lernen; wechsle Positionen, Routen und Waffen."
+            },
+            {
+              "label": "B",
+              "detail": "Urwesen, die die Frontlinie bedrängen; nutze Engstellen und spare Munition."
+            },
+            {
+              "label": "C",
+              "detail": "Bunkerexperimente und Umweltgefahren; lies Aufzeichnungen und prüfe Ecken sorgfältig."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Nature of Dread Waffen- und Kampf-Guide",
+          "description": "Erfahre, wie abgesägte Schrotflinte, Militärpistole, Messer und improvisierte Ausrüstung Kämpfe und Ressourcenentscheidungen prägen.",
+          "href": "/mechanics/nature-of-dread-combat-system",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Schrotflinte",
+              "detail": "Eine improvisierte abgesägte Schrotflinte bietet enorme Nahkampf-Durchschlagskraft auf Kosten von Reichweite und Munition."
+            },
+            {
+              "label": "Pistole",
+              "detail": "Die standardmäßige Militärpistole bietet zuverlässige Präzision und eine bessere Munitionsausbeute."
+            },
+            {
+              "label": "Messer",
+              "detail": "Lautloser Nahkampf spart Munition, erfordert aber Nähe und kann in blutverschmierten Händen verrutschen."
+            },
+            {
+              "label": "Ausrüstung",
+              "detail": "Improvisierte Werkzeuge und Verbrauchsgüter sind knapp; nimm nur mit, was die nächste Route erfordert."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Nature of Dread Story und Lore",
+          "description": "Folge dem geheimen Krieg, der Geschichte von Hellhole, dem verborgenen Bunker und der Folklore, die Nature of Dread prägt.",
+          "href": "/story/nature-of-dread-story",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Hellhole",
+              "detail": "Eine geheime Siedlung in der nördlichen Wildnis, errichtet als letzter Schutzwall der Menschheit."
+            },
+            {
+              "label": "Geheimer Krieg",
+              "detail": "Die Menschheit kämpft seit Jahrhunderten gegen übernatürliche Wesen und hält den Konflikt geheim."
+            },
+            {
+              "label": "Bunker",
+              "detail": "Eine verborgene unterirdische Anlage bewahrt Aufzeichnungen und Experimente unter der Siedlung."
+            },
+            {
+              "label": "Ritual",
+              "detail": "Alte Mystik, Volkssagen und Ritualstätten verschmelzen mit der vielschichtigen Mythologie des Spiels."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Nature of Dread Systemanforderungen",
+          "description": "Prüfe die bestätigten PC-Anforderungen und die Hardwaredetails, die auf Steam noch als ausstehend markiert sind.",
+          "href": "/release/nature-of-dread-platforms",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Ein 64-Bit-Betriebssystem ist erforderlich; eine 32-Bit-Version wird nicht genannt."
+            },
+            {
+              "label": "DirectX",
+              "detail": "DirectX Version 12 wird als minimale Grafik-API angegeben."
+            },
+            {
+              "label": "CPU",
+              "detail": "Die Prozessoranforderungen sind sowohl für Minimum als auch für Empfohlen noch nicht bekannt."
+            },
+            {
+              "label": "GPU",
+              "detail": "Die Grafikanforderungen sind noch nicht bekannt, während die Optimierung weiterläuft."
+            },
+            {
+              "label": "Speicher",
+              "detail": "Die Speicheranforderungen wurden noch nicht auf der Steam-Seite genannt."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Nature of Dread Trailer und Gameplay-Videos",
+          "description": "Sieh dir den offiziellen Reveal, den ersten Gameplay-Einblick und Trailer-Analysen an, um Hellhole und seine Kämpfe besser zu verstehen.",
+          "href": "/trailers/nature-of-dread-reveal-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Reveal",
+              "detail": "Der offizielle Reveal-Trailer wurde am 16. Juli 2026 veröffentlicht und dauert 2:37."
+            },
+            {
+              "label": "Gameplay",
+              "detail": "Ein fünfminütiger erster Blick zeigt die Erkundung des Bunkers unter Hellhole."
+            },
+            {
+              "label": "Bunker",
+              "detail": "Die unterirdische Sequenz betont enge Korridore, Dokumente und ein klaustrophobisches Tempo."
+            },
+            {
+              "label": "Steam",
+              "detail": "Offizielle Clips und News-Beiträge werden auf der Nature of Dread Steam-Seite gesammelt."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Kurze Antworten auf die häufigsten Fragen zu Nature of Dread.",
+      "items": [
+        {
+          "question": "Was ist Nature of Dread?",
+          "answer": "Nature of Dread ist ein First-Person-Action-Horror-Spiel in Hellhole, einer geheimen Siedlung in der nördlichen Wildnis, die errichtet wurde, um ein uraltes Übel einzuschließen. Du erwachst eingesperrt und musst erkunden, kämpfen und knappe Ressourcen verwalten, um zu entkommen."
+        },
+        {
+          "question": "Ist Nature of Dread ein Einzelspielerspiel?",
+          "answer": "Ja. Nature of Dread ist auf Steam als Einzelspieler-Erfahrung gelistet; ein Mehrspieler- oder Koop-Modus wurde nicht angekündigt."
+        },
+        {
+          "question": "Wo spielt Nature of Dread?",
+          "answer": "Nature of Dread spielt in Hellhole, einer abgeriegelten Siedlung inmitten der nördlichen Wildnis. Das Gebiet umfasst dichten Wald, die Siedlung selbst, Ritualstätten und einen verborgenen unterirdischen Bunker."
+        },
+        {
+          "question": "Welche Waffen gibt es in Nature of Dread?",
+          "answer": "Die offizielle Steam-Seite nennt eine improvisierte abgesägte Schrotflinte, eine standardmäßige Militärpistole und ein Messer. Improvisierte Ausrüstung und sorgfältiges Ressourcenmanagement bestimmen ebenfalls, wie sich die Kämpfe in Nature of Dread entfalten."
+        },
+        {
+          "question": "Passen sich die Gegner in Nature of Dread deiner Taktik an?",
+          "answer": "Laut offizieller Beschreibung lernen die Kreaturen in Nature of Dread, passen sich an, bilden Rudel und ändern ihre Taktik. Wechselnde Routen, Waffen und Kampfpositionen sind der sicherste Weg, nicht berechenbar zu werden."
+        },
+        {
+          "question": "Wann erscheint Nature of Dread?",
+          "answer": "Das Release-Datum von Nature of Dread ist auf Steam weiterhin als noch nicht angekündigt gelistet. Bestätigt ist nur PC über Steam; das Vormerken auf Steam ist der direkteste Weg, Release-Hinweise zu erhalten."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Hellhole zu überleben?",
+      "description": "Merke Nature of Dread auf Steam vor und entdecke unsere wachsende Sammlung von Guides zu Kämpfen, Gegnern, Waffen und Story.",
+      "primary": "Einsteiger-Guide lesen",
+      "secondary": "Auf Steam vormerken"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Nature of Dread Guides: Einsteigertipps, Überleben und Komplettlösung",
+    "overviewDescription": "Lerne mit den Einsteiger-Guides, Kampftipps, Ressourcenhinweisen und der Komplettlösung zu Nature of Dread, wie du Hellhole überlebst."
+  },
+  "release": {
+    "overviewTitle": "Nature of Dread Release-Datum, Plattformen und Steam-News",
+    "overviewDescription": "Verfolge das Release-Datum von Nature of Dread, bestätigte Plattformen, den Steam-Eintrag und alle Launch-Updates an einem Ort."
+  },
+  "trailers": {
+    "overviewTitle": "Nature of Dread Trailer und Gameplay-Material",
+    "overviewDescription": "Sieh dir alle Trailer von Nature of Dread an und analysiere Reveal, Ankündigung, offizielles Gameplay und erste Einblicke."
+  },
+  "mechanics": {
+    "overviewTitle": "Nature of Dread Mechaniken: Kampf, Überleben und Erkundung",
+    "overviewDescription": "Verstehe Kampf, Überlebenssysteme, Erkundung, Horror-Gameplay und das First-Person-Design hinter Hellhole."
+  },
+  "community": {
+    "overviewTitle": "Nature of Dread Community: Reddit, Discord und Spielerressourcen",
+    "overviewDescription": "Finde die Nature of Dread Community auf Reddit, Discord und weiteren Spieler-Hubs für Diskussionen, Entdeckungen und Überlebenstipps."
+  },
+  "development": {
+    "overviewTitle": "Nature of Dread Entwickler, Studio und offizielle Website",
+    "overviewDescription": "Folge dem Entwicklungsteam von Nature of Dread, lerne das Studio kennen und finde die offizielle Website sowie verifizierte Spiellinks."
+  },
+  "story": {
+    "overviewTitle": "Nature of Dread Story, Schauplatz, Charaktere und Gegner",
+    "overviewDescription": "Erkunde die Story von Nature of Dread, die verfluchte Siedlung Hellhole, ihre Charaktere, Gegner und die Horror-Atmosphäre."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Release-Beobachtung",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Release-Berichterstattung ansehen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Weiterlesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "releaseDateTba": "Release-Datum noch nicht bekannt",
+    "wishlistOpen": "Steam-Wunschliste jetzt verfügbar",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Nature of Dread Wiki",
+    "about": "Das Nature of Dread Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zu Hellhole, übernatürlichen Gegnern, Waffen, Kämpfen, Story-Details und wichtigem Überlebenswissen für neue und erfahrene Spieler.",
+    "quickLinks": "Schnellzugriff",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Nature of Dread Wiki. Nicht mit Eira Games verbunden.",
+    "description": "First-Person-Action-Horror in der verfluchten Siedlung Hellhole. Erscheint für PC über Steam.",
+    "playGame": "Nature of Dread auf Steam",
+    "officialWebsite": "Offizielle Website",
+    "officialYoutube": "Offizielles YouTube",
+    "steamCommunity": "Steam-Community",
+    "beginnerGuide": "Einsteiger-Guide",
+    "raceGuides": "Gegner-Guides",
+    "bossGuides": "Story-Guides",
+    "buildGuide": "Gameplay-Guide",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}

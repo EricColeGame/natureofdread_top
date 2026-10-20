@@ -460,7 +460,6 @@
     "activeCodes": "Release Watch",
     "updated": "Updated",
     "viewAllCodes": "View release coverage",
-    "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
@@ -470,6 +469,8 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
+    "releaseDateTba": "Release date not yet announced",
+    "wishlistOpen": "Steam wishlist available now",
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {

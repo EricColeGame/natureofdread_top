@@ -35,6 +35,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/watch?v=7vvRYeDEyKY",
     steamCommunity: "https://steamcommunity.com/app/4022950",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "de", "fr"],
   defaultLocale: "en",
 };
