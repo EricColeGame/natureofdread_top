@@ -2,7 +2,7 @@
 import { siteConfig } from "@/config/site";
 
 import Link from "next/link";
-import { ArrowRight, BookOpen, Boxes, ChevronRight, CircleHelp, Code2, Compass, Flame, Map as MapIcon, ScrollText, Shield, Skull, Swords, Trophy, Users, Zap, type LucideIcon } from "lucide-react";
+import { ArrowRight, BookOpen, Boxes, ChevronRight, CircleHelp, Code2, Compass, ExternalLink, Flame, Map as MapIcon, ScrollText, Shield, Skull, Swords, Trophy, Users, Zap, type LucideIcon } from "lucide-react";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
@@ -15,7 +15,7 @@ import en from "@/locales/en.json";
 type Home = typeof en.home;
 
 const icons: LucideIcon[] = [BookOpen, Shield, Compass, Boxes, Flame, Code2, Swords, MapIcon, Users, Trophy, Skull, Zap, CircleHelp, ScrollText];
-const YOUTUBE_VIDEO_ID = siteConfig.heroVideoId || "";
+const YOUTUBE_VIDEO_ID = siteConfig.heroVideoId || "7vvRYeDEyKY";
 
 
 export default function HomePageClient({ home, locale, articles, recentArticles }: { home: Home; locale: string; articles: ContentItem[]; recentArticles: ContentItem[] }) {
@@ -32,6 +32,11 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
         </div>
         <p className="mx-auto mt-5 max-w-3xl text-base leading-relaxed text-muted-foreground">{home.hero.description}</p>
         <div className="mt-4 flex flex-wrap items-center justify-center gap-1.5">{home.hero.stats.map((stat) => <span key={stat} className="inline-flex items-center gap-1 rounded-full bg-muted px-2.5 py-0.5 text-xs font-medium text-muted-foreground">{stat}</span>)}</div>
+        <div className="mt-6 flex flex-wrap items-center justify-center gap-3">
+          <Button asChild size="lg"><Link href={localizeHref("/guide/nature-of-dread-beginner-guide", locale)}>{home.hero.primaryCta}<ArrowRight className="ml-2 h-4 w-4" /></Link></Button>
+          <Button asChild size="lg" variant="outline"><Link href={localizeHref("/guide/nature-of-dread-gameplay-guide", locale)}>{home.hero.secondaryCta}</Link></Button>
+          <Button asChild size="lg" variant="ghost"><Link href={siteConfig.gameUrl || siteConfig.url} target="_blank" rel="noopener noreferrer">{home.hero.tertiaryCta}<ExternalLink className="ml-2 h-4 w-4" /></Link></Button>
+        </div>
       </section>
 
       {YOUTUBE_VIDEO_ID && (
@@ -242,7 +247,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
       <section><h2 className="text-3xl font-bold tracking-tight text-foreground">{home.faq.title}</h2><p className="mt-2 text-muted-foreground">{home.faq.description}</p><Accordion type="single" collapsible className="mt-6 rounded-2xl border border-border bg-card/70 px-5">{home.faq.items.map((item, index) => <AccordionItem key={item.question} value={`item-${index}`}><AccordionTrigger className="text-left text-foreground">{item.question}</AccordionTrigger><AccordionContent className="leading-7 text-muted-foreground">{item.answer}</AccordionContent></AccordionItem>)}</Accordion></section>
 
       {/* Final CTA (curated, stays in JSON) */}
-      <section className="rounded-3xl border border-border bg-gradient-to-br from-muted to-card p-8 text-center"><h2 className="text-3xl font-bold tracking-tight text-foreground">{home.finalCta.title}</h2><p className="mx-auto mt-3 max-w-2xl text-muted-foreground">{home.finalCta.description}</p><div className="mt-6 flex flex-wrap justify-center gap-3"><Button asChild size="lg"><Link href={localizeHref("/guide/nature-of-dread-beginner-guide", locale)}>{home.finalCta.primary}<ArrowRight className="ml-2 h-4 w-4" /></Link></Button><Button asChild size="lg" variant="outline"><Link href="https://store.steampowered.com/app/4022950/">{home.finalCta.secondary}</Link></Button></div></section>
+      <section className="rounded-3xl border border-border bg-gradient-to-br from-muted to-card p-8 text-center"><h2 className="text-3xl font-bold tracking-tight text-foreground">{home.finalCta.title}</h2><p className="mx-auto mt-3 max-w-2xl text-muted-foreground">{home.finalCta.description}</p><div className="mt-6 flex flex-wrap justify-center gap-3"><Button asChild size="lg"><Link href={localizeHref("/guide/nature-of-dread-beginner-guide", locale)}>{home.finalCta.primary}<ArrowRight className="ml-2 h-4 w-4" /></Link></Button><Button asChild size="lg" variant="outline"><Link href={siteConfig.gameUrl || siteConfig.url} target="_blank" rel="noopener noreferrer">{home.finalCta.secondary}<ExternalLink className="ml-2 h-4 w-4" /></Link></Button></div></section>
 
       {/* Bottom leaderboard (course §3.5) */}
       <AdBanner size="728x90" />

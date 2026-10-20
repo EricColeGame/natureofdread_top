@@ -2,9 +2,9 @@
   "site": {
     "name": "Nature of Dread Wiki",
     "shortName": "Nature of Dread",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to Nature of Dread on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "tagline": "First-Person Action Horror Guides, Enemies & Story",
+    "description": "Explore the cursed settlement of Hellhole in Nature of Dread with survival horror guides, enemy details, weapons, story coverage, and release updates.",
+    "legalNotice": "Independent fan wiki. Not affiliated with Eira Games."
   },
   "nav": {
     "races": "Races",
@@ -26,23 +26,23 @@
   },
   "home": {
     "meta": {
-      "title": "Nature of Dread Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete Nature of Dread guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Nature of Dread Wiki - Story, Weapons & Survival Guide",
+      "description": "Explore Nature of Dread with game news, story details, combat tips, enemy guides, weapons, system requirements, release updates, and official trailers for PC."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "Nature of Dread",
-      "description": "Master your restaurant in Nature of Dread on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "First-Person Action Horror",
+      "title": "Nature of Dread Wiki",
+      "description": "Explore the cursed settlement of Hellhole in Nature of Dread, a first-person action-horror game featuring supernatural enemies, intense combat, resource management, and dark storytelling.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "Release Date: TBA",
+        "Platform: PC",
+        "12 Supported Languages",
+        "Single-player"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "secondaryCta": "Gameplay Guide",
+      "tertiaryCta": "Wishlist on Steam",
+      "videoLabel": "Official reveal trailer"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master Nature of Dread?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Survive Hellhole?",
+      "description": "Wishlist Nature of Dread on Steam and explore our growing collection of guides for combat, enemies, weapons, and the story.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "Wishlist on Steam"
     }
   },
   "bosses": {
@@ -380,20 +380,20 @@
   },
   "footer": {
     "aboutTitle": "Nature of Dread Wiki",
-    "about": "Nature of Dread Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "about": "Nature of Dread Wiki is an independent fan-built guide hub covering Hellhole, supernatural enemies, weapons, combat, story details, and essential survival knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 Nature of Dread Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play Nature of Dread",
-    "officialDiscord": "Official Discord",
+    "copyright": "2026 Nature of Dread Wiki. Not affiliated with Eira Games.",
+    "description": "First-person action horror set in the cursed settlement of Hellhole. Coming to PC via Steam.",
+    "playGame": "Nature of Dread on Steam",
+    "officialWebsite": "Official Website",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "steamCommunity": "Steam Community",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
+    "raceGuides": "Enemy Guides",
     "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "buildGuide": "Gameplay Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

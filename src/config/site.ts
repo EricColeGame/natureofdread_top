@@ -13,6 +13,8 @@ export interface SiteConfig {
     youtube?: string;
     twitter?: string;
     tiktok?: string;
+    website?: string;
+    steamCommunity?: string;
   };
   locales: readonly string[];
   defaultLocale: string;
@@ -25,11 +27,13 @@ export const siteConfig: SiteConfig = {
   tagline: "Survival Horror Guides, Enemies & Story",
   description: "Explore the cursed settlement of Hellhole in Nature of Dread with survival horror guides, enemy details, weapons, story coverage, and release updates.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://natureofdread.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://natureofdread.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://store.steampowered.com/app/4022950/",
+  supportEmail: "support@natureofdread.top",
+  gameUrl: "https://store.steampowered.com/app/4022950/Nature_of_Dread/",
   heroVideoId: "7vvRYeDEyKY", // Nature of Dread official reveal trailer
   social: {
+    website: "https://www.natureofdread.com/",
     youtube: "https://www.youtube.com/watch?v=7vvRYeDEyKY",
+    steamCommunity: "https://steamcommunity.com/app/4022950",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",

@@ -25,13 +25,16 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
   const image = `${siteUrl}/images/hero.webp`;
+  const title = "Nature of Dread Wiki";
+  const description = "Nature of Dread survival horror wiki covering Hellhole, enemies, weapons, story details, guides, and release updates.";
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
   return {
     metadataBase: new URL(siteUrl),
-    title: { default: "Nature of Dread Wiki", template: "%s" },
-    description: "Nature of Dread survival horror wiki covering Hellhole, enemies, weapons, story details, guides, and release updates.",
-    applicationName: "Nature of Dread Wiki",
+    title: { default: title, template: "%s" },
+    description,
+    applicationName: title,
     manifest: "/manifest.json",
+    alternates: { canonical: `/${locale}` },
     icons: {
       icon: [
         { url: "/favicon.ico", sizes: "any" },
@@ -43,9 +46,9 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
       shortcut: "/favicon.ico",
     },
-    appleWebApp: { capable: true, title: "Nature of Dread Wiki", statusBarStyle: "black-translucent" },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    appleWebApp: { capable: true, title, statusBarStyle: "black-translucent" },
+    openGraph: { type: "website", locale, url: `${siteUrl}/${locale}`, siteName: siteConfig.name, title, description, images: [{ url: image, width: 1920, height: 1080, alt: "Nature of Dread key art" }] },
+    twitter: { card: "summary_large_image", title, description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -60,8 +63,9 @@ export default async function LocaleLayout({ children, params }: { children: Rea
     "@type": "Organization",
     name: siteConfig.name,
     url: siteUrl,
-    logo: `${siteUrl}/android-chrome-512x512.png`,
-    image: `${siteUrl}/images/hero.webp`,
+    "logo": `${siteUrl}/android-chrome-512x512.png`,
+    "image": `${siteUrl}/images/hero.webp`,
+    sameAs: [siteConfig.social?.website, siteConfig.social?.youtube, siteConfig.social?.steamCommunity].filter(Boolean),
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
