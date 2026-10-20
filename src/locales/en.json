@@ -6,7 +6,17 @@
     "description": "Explore the cursed settlement of Hellhole in Nature of Dread with survival horror guides, enemy details, weapons, story coverage, and release updates.",
     "legalNotice": "Independent fan wiki. Not affiliated with Eira Games."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "release": "Release",
+    "trailers": "Trailers",
+    "mechanics": "Mechanics",
+    "community": "Community",
+    "development": "Development",
+    "story": "Story",
+    "menu": "Menu",
+    "toggleTheme": "Toggle Theme"
+  },
   "home": {
     "meta": {
       "title": "Nature of Dread Wiki - Story, Weapons & Survival Guide",
@@ -417,12 +427,39 @@
       "secondary": "Wishlist on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Nature of Dread Guides: Beginner Tips, Survival, and Walkthroughs",
+    "overviewDescription": "Learn how to survive Hellhole with Nature of Dread beginner guides, combat advice, resource management tips, and a full walkthrough."
+  },
+  "release": {
+    "overviewTitle": "Nature of Dread Release Date, Platforms, and Steam News",
+    "overviewDescription": "Track the Nature of Dread release date, confirmed platforms, Steam listing, and every launch update in one place."
+  },
+  "trailers": {
+    "overviewTitle": "Nature of Dread Trailers and Gameplay Footage",
+    "overviewDescription": "Watch and analyze every Nature of Dread trailer, including the reveal, announcement, official gameplay, and first-look footage."
+  },
+  "mechanics": {
+    "overviewTitle": "Nature of Dread Mechanics: Combat, Survival, and Exploration",
+    "overviewDescription": "Understand Nature of Dread combat, survival systems, exploration, horror gameplay, and the first-person design behind Hellhole."
+  },
+  "community": {
+    "overviewTitle": "Nature of Dread Community: Reddit, Discord, and Player Resources",
+    "overviewDescription": "Find the Nature of Dread community across Reddit, Discord, and player hubs for discussion, discoveries, and survival tips."
+  },
+  "development": {
+    "overviewTitle": "Nature of Dread Developers, Studio, and Official Website",
+    "overviewDescription": "Follow the Nature of Dread development team, learn about the studio, and find the official website and verified game links."
+  },
+  "story": {
+    "overviewTitle": "Nature of Dread Story, Setting, Characters, and Enemies",
+    "overviewDescription": "Explore the Nature of Dread story, the cursed settlement of Hellhole, its characters, enemies, and the horror atmosphere."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
+    "activeCodes": "Release Watch",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
+    "viewAllCodes": "View release coverage",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
@@ -449,7 +486,7 @@
     "steamCommunity": "Steam Community",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Enemy Guides",
-    "bossGuides": "Boss Guides",
+    "bossGuides": "Story Guides",
     "buildGuide": "Gameplay Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
