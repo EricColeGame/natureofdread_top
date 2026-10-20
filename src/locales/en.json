@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core survival loop, set safe routes, and avoid the mistakes that end most first runs in Hellhole."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Combat Basics",
+          "description": "Compare melee, pistol, and shotgun options, then use choke points and repositioning to survive adaptive enemies."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Resource Guide",
+          "description": "Budget ammunition, healing, and tools while prioritizing shortcuts and only the loot your next route needs."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Nature of Dread."
+          "title": "Exploration",
+          "description": "Read Hellhole's forest, settlement, and bunker layers, keep an exit in sight, and let environmental clues guide the way."
         }
       ]
     },
@@ -62,237 +62,319 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Release Date",
+        "Combat System",
+        "Enemy Guide"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Learn the survival loop, combat basics, and resource priorities needed to escape Hellhole.",
+          "href": "/guide/nature-of-dread-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "News",
+          "title": "Release Date",
+          "description": "Track the confirmed release status, Steam updates, and the latest Nature of Dread announcements.",
+          "href": "/release/nature-of-dread-release-date"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Mechanics",
+          "title": "Combat System",
+          "description": "Understand realistic weapons, adaptive enemies, and the resource pressure behind every fight.",
+          "href": "/mechanics/nature-of-dread-combat-system"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Enemies",
+          "title": "Monsters and Enemies",
+          "description": "Explore Hellhole's primordial spawn, pack hunters, and the threats tied to its ancient evil.",
+          "href": "/story/nature-of-dread-enemies"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Lore",
+          "title": "Hellhole Setting",
+          "description": "Read the history of the sealed settlement, its northern wilderness, and the secret bunker below.",
+          "href": "/story/nature-of-dread-setting"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Story",
+          "title": "Story and Lore",
+          "description": "Follow the centuries-old secret war, mixed folklore, and layered narrative of Nature of Dread.",
+          "href": "/story/nature-of-dread-story"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "PC",
+          "title": "Platforms and Specs",
+          "description": "Review the Steam platform details, partial system requirements, and accessibility options.",
+          "href": "/release/nature-of-dread-platforms"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "badge": "Trailer",
+          "title": "Reveal Trailer",
+          "description": "Break down the 2:37 reveal, its Hellhole setting, and the questions it leaves unanswered.",
+          "href": "/trailers/nature-of-dread-reveal-trailer"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Gameplay",
+          "title": "Gameplay First Look",
+          "description": "See what the five-minute bunker sequence reveals about exploration and combat pacing.",
+          "href": "/guide/nature-of-dread-first-gameplay"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Nature of Dread?",
       "paragraphs": [
-        "Nature of Dread is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Nature of Dread is a first-person action-horror game set in Hellhole, a classified settlement in the northern wilderness built to contain an ancient evil. You awaken trapped inside as the settlement's sealed borders, buried experiments, and supernatural threats close in around you.",
+        "Survival depends on reading the environment, managing scarce ammunition and healing supplies, and varying your tactics against creatures described as learning, adapting, and hunting in packs. The official Steam page also highlights a sawed-off shotgun, military pistol, knife combat, adjustable difficulty, and 12 supported languages."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Nature of Dread Team"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC via Steam"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "First-person action-horror"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Release Date",
+          "value": "To be announced"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Perspective",
+          "value": "First-person"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Player Mode",
+          "value": "Single-player"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Languages",
+          "value": "12 supported"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Nature of Dread Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Explore Nature of Dread through release news, beginner survival tactics, adaptive enemies, weapons, lore, PC specs, and official trailers for Hellhole.",
       "modules": [
         {
           "order": 1,
-          "name": "Nature of Dread Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/nature-of-dread-codes",
-          "displayType": "code-box",
+          "name": "Nature of Dread Release Date and Latest News",
+          "description": "Track the latest Nature of Dread release status, Steam announcements, gameplay reveals, and confirmed launch milestones.",
+          "href": "/release/nature-of-dread-release-date",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "TBA",
+              "detail": "Nature of Dread is still listed as to be announced on Steam, with no launch window confirmed."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Steam",
+              "detail": "The PC store page is live with wishlisting open under Steam app ID 4022950."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Footage",
+              "detail": "A five-minute gameplay first look explores a secret bunker beneath Hellhole."
+            },
+            {
+              "label": "Wishlist",
+              "detail": "Wishlisting on Steam provides launch notifications and signals demand for the project."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
+          "name": "Nature of Dread Beginner Guide",
+          "description": "A practical first-session guide to exploring Hellhole, managing scarce supplies, choosing fights, and unlocking safer routes.",
           "href": "/guide/nature-of-dread-beginner-guide",
-          "displayType": "feature-cards",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Enter a new area with a retreat route already in mind and avoid walking straight into its center."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Stock healing and ammunition before leaving a safe zone, keeping both above half capacity."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Circle the perimeter first, listening for threats and marking doors, landmarks, and alternate exits."
+            },
+            {
+              "label": "4",
+              "detail": "Fight from doorways, stairs, or narrow corridors so pack hunters cannot surround you."
+            },
+            {
+              "label": "5",
+              "detail": "Loot with a specific purpose and leave anything that does not support the next twenty minutes."
+            },
+            {
+              "label": "6",
+              "detail": "Unlock shortcuts and safe routes early, then use them to make future supply runs shorter and safer."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/nature-of-dread-tier-list",
-          "displayType": "tier-grid",
+          "name": "Nature of Dread Gameplay and Features",
+          "description": "Understand the first-person survival loop, adaptive enemy behavior, resource pressure, and the atmosphere that drives Nature of Dread.",
+          "href": "/mechanics/nature-of-dread-horror-gameplay",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "First View",
+              "detail": "The entire journey is presented through a close first-person camera built for immersion."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Smart AI",
+              "detail": "Creatures are described as learning, adapting, forming packs, and changing tactics."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Scarcity",
+              "detail": "Ammo, healing, and tools are limited, making every fight a resource decision."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Atmosphere",
+              "detail": "Dark forests, sealed borders, and layered environmental storytelling drive the dread."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/nature-of-dread-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Nature of Dread Monsters and Enemies",
+          "description": "Compare the threat tiers behind Hellhole's primordial spawn, adaptive pack hunters, and boss-scale supernatural beings.",
+          "href": "/story/nature-of-dread-enemies",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Apex beings described as worthy of the Four Horsemen; avoid early fights and plan an escape route."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Adaptive pack hunters that learn from repeated tactics; rotate positions, routes, and weapons."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Primordial spawn that press the front line; use choke points and conserve ammunition."
+            },
+            {
+              "label": "C",
+              "detail": "Bunker experiments and environmental hazards; read records and check corners carefully."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/nature-of-dread-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Nature of Dread Weapons and Combat Guide",
+          "description": "Learn how the sawed-off shotgun, military pistol, knife, and improvised gear shape combat and resource decisions.",
+          "href": "/mechanics/nature-of-dread-combat-system",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Shotgun",
+              "detail": "A jury-rigged sawed-off shotgun delivers heavy close-range stopping power at the cost of range and ammunition."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Pistol",
+              "detail": "The standard-issue military pistol offers dependable accuracy and better ammunition efficiency."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Knife",
+              "detail": "Silent melee saves ammunition but requires proximity and can slip in blood-slick hands."
+            },
+            {
+              "label": "Gear",
+              "detail": "Improvised tools and consumables are scarce, so carry only what the next route requires."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/nature-of-dread-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Nature of Dread Story and Lore",
+          "description": "Follow the secret war, the history of Hellhole, the hidden bunker, and the folklore that shapes Nature of Dread.",
+          "href": "/story/nature-of-dread-story",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Hellhole",
+              "detail": "A classified settlement in the northern wilderness built as humanity's final bulwark."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Secret War",
+              "detail": "Humanity has fought supernatural beings for centuries while keeping the conflict hidden."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Bunker",
+              "detail": "A hidden underground facility holds the records and experiments buried beneath the settlement."
+            },
+            {
+              "label": "Ritual",
+              "detail": "Ancient mysticism, folk legends, and ritual spaces blend into the game's layered mythology."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Nature of Dread System Requirements",
+          "description": "Review the confirmed PC requirements and the hardware details still marked to be announced on Steam.",
+          "href": "/release/nature-of-dread-platforms",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "A 64-bit operating system is required; no 32-bit version is listed."
+            },
+            {
+              "label": "DirectX",
+              "detail": "DirectX Version 12 is listed as the minimum graphics API."
+            },
+            {
+              "label": "CPU",
+              "detail": "Processor requirements remain to be announced for both minimum and recommended tiers."
+            },
+            {
+              "label": "GPU",
+              "detail": "Graphics requirements remain to be announced while optimization continues."
+            },
+            {
+              "label": "Storage",
+              "detail": "Storage requirements have not yet been listed on the Steam page."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Nature of Dread Trailer and Gameplay Videos",
+          "description": "Watch the official reveal, gameplay first look, and trailer breakdowns for a clearer view of Hellhole and its combat.",
+          "href": "/trailers/nature-of-dread-reveal-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Reveal",
+              "detail": "The official reveal trailer premiered on July 16, 2026, and runs 2:37."
+            },
+            {
+              "label": "Gameplay",
+              "detail": "A five-minute first look shows bunker exploration beneath Hellhole."
+            },
+            {
+              "label": "Bunker",
+              "detail": "The underground sequence highlights narrow corridors, documents, and claustrophobic pacing."
+            },
+            {
+              "label": "Steam",
+              "detail": "Official clips and news posts are collected on the Nature of Dread Steam page."
             }
           ]
         }
@@ -304,23 +386,27 @@
       "items": [
         {
           "question": "What is Nature of Dread?",
-          "answer": "Nature of Dread is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Nature of Dread is a first-person action-horror game set in Hellhole, a classified settlement in the northern wilderness built to contain an ancient evil. You awaken trapped inside and must explore, fight, and manage scarce resources to escape."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is Nature of Dread a single-player game?",
+          "answer": "Yes. Nature of Dread is listed as a single-player experience on Steam, with no multiplayer or co-op mode announced."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Where does Nature of Dread take place?",
+          "answer": "Nature of Dread takes place in Hellhole, a sealed settlement surrounded by the northern wilderness. The area includes dense forest, the settlement itself, ritual spaces, and a hidden underground bunker."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What weapons are in Nature of Dread?",
+          "answer": "The official Steam listing highlights a jury-rigged sawed-off shotgun, a standard-issue military pistol, and a knife. Improvised gear and careful resource management also shape how Nature of Dread combat plays out."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Do Nature of Dread enemies adapt to your tactics?",
+          "answer": "The official description says Nature of Dread creatures learn, adapt, form packs, and change tactics. Varying your routes, weapons, and fighting positions is the safest way to avoid becoming predictable."
+        },
+        {
+          "question": "When is the Nature of Dread release date?",
+          "answer": "The Nature of Dread release date is still listed as to be announced on Steam. Only PC via Steam has been confirmed, and wishlisting the game is the most direct way to receive launch notifications."
         }
       ]
     },
